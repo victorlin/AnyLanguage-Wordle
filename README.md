@@ -1,6 +1,12 @@
-# Any-Language Wordle Clone
+# Vordle – Vietnamese Wordle
 
 ## Changes in this fork
+
+This is an implementation of [roedoejet/AnyLanguage-Wordle](https://github.com/roedoejet/AnyLanguage-Wordle) in Vietnamese, with a few additional tweaks.
+
+The word lists are derived from [duyet/vietnamese-wordlist](https://github.com/duyet/vietnamese-wordlist) and stripped of accents for a minimal on-screen keyboard. See [write-vietnamese-word-lists.py](./write-vietnamese-word-lists.py) for implementation details.
+
+## Changes from @roedoejet's AnyLanguage-Wordle
 
 I've adapted this code to allow for simply adapting it to another language. The wordlist and orthography (writing system) here are for the Gitksan language, but this repository is meant to be adapted to other languages. I've also added a script for publishing on GitHub Pages.
 
