@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vordle/static/css/main.eaad5e1a.css",
-    "main.js": "/vordle/static/js/main.0d76688f.js",
+    "main.js": "/vordle/static/js/main.02b6ddc9.js",
     "static/js/787.9fd50364.chunk.js": "/vordle/static/js/787.9fd50364.chunk.js",
     "static/media/BCSans-Bold.woff": "/vordle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
     "static/media/BCSans-BoldItalic.woff": "/vordle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
@@ -10,11 +10,11 @@
     "index.html": "/vordle/index.html",
     "static/media/getFetch.cjs": "/vordle/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.eaad5e1a.css.map": "/vordle/static/css/main.eaad5e1a.css.map",
-    "main.0d76688f.js.map": "/vordle/static/js/main.0d76688f.js.map",
+    "main.02b6ddc9.js.map": "/vordle/static/js/main.02b6ddc9.js.map",
     "787.9fd50364.chunk.js.map": "/vordle/static/js/787.9fd50364.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eaad5e1a.css",
-    "static/js/main.0d76688f.js"
+    "static/js/main.02b6ddc9.js"
   ]
 }
