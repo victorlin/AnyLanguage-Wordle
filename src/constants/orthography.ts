@@ -1,28 +1,34 @@
 import { CONFIG } from './config'
 
 export const ORTHOGRAPHY = [
-  'a',
-  'b',
-  'c',
-  'd',
+  'q',
   'e',
-  'g',
-  'h',
+  'r',
+  't',
+  'y',
+  'u',
   'i',
-  'k',
-  'l',
-  'm',
-  'n',
   'o',
   'p',
-  'q',
-  'r',
+  'a',
   's',
-  't',
-  'u',
-  'v',
+  'd',
+  'h',
+  'g',
+  'k',
+  'l',
   'x',
-  'y',
+  'c',
+  'v',
+  'b',
+  'n',
+  'm',
+]
+
+export const ORTHOGRAPHY_ROWS = [
+  ['q', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p'],
+  ['a', 's', 'd', 'h', 'g', 'k', 'l'],
+  ['x', 'c', 'v', 'b', 'n', 'm'],
 ]
 
 if (CONFIG.normalization) {
