@@ -3,7 +3,7 @@ export const CONFIG = {
   language: 'Vietnamese', // This changes the display name for your language
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'victorlin', // Put your name here so people know who made this Wordle!
-  authorWebsite: 'victorl.in', // Put a link to your website or social media here
+  authorWebsite: 'https://github.com/victorlin/vordle', // Put a link to your website or social media here
   wordListSource: 'duyet/vietnamese-wordlist', // Describe the source material for your words here
   wordListSourceLink: 'https://github.com/duyet/vietnamese-wordlist', // Put a link to the source material for your words here
   //
